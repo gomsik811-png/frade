@@ -1,3 +1,14 @@
+# 2차 · Frade · 류현우 개인 보관본
+
+팀 프로젝트의 코드·브랜치·커밋 이력을 보관한 개인 Fork입니다.
+
+- 개인 작업과 문제 해결 기록: [개인 기여 문서](docs/personal-contribution.md)
+- 원본 팀 저장소: [chlqjarb0216-bit/frade](https://github.com/chlqjarb0216-bit/frade)
+- 보관일: 2026-10-12
+- 기존 팀원·작성자 기록을 유지하며, 아래는 원본 팀 README입니다.
+
+---
+
 # frade
 ## 2차 1팀 프로젝트
 ### 모의거래 + 커뮤니티 서비스
